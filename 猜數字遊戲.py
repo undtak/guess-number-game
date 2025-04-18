@@ -1,4 +1,4 @@
-#猜數字遊戲
+#guess_number_game
 
 secret_num = 45
 guess = None
